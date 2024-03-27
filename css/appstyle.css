@@ -1,0 +1,31 @@
+
+/* Stile del contenitore dell'annuncio */
+.ad-container {
+    max-width: 300px; /* Imposta la larghezza massima dell'annuncio */
+    margin: 20px auto; /* Centra l'annuncio */
+}
+
+/* Stile del link dell'annuncio */
+.ad-link {
+    text-decoration: none; /* Rimuove la sottolineatura del link */
+}
+
+/* Stile dell'immagine dell'annuncio */
+.ad-link img {
+    width: 100%; /* Larghezza dell'immagine del 100% del contenitore */
+    display: block; /* Imposta l'immagine come blocco */
+}
+
+/* Stile del contenuto dell'annuncio */
+.ad-content {
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+/* Stile del titolo dell'annuncio */
+.ad-content h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
